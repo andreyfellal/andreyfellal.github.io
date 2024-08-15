@@ -1,6 +1,12 @@
+header{
+    background-color: bisque;
+}
 body{
     background-color: rgb(83, 24, 24);
 }
 h1{
-    font-size: 10em;
+    color: #c4cacf;
+}
+#lorem{
+    align-content: center;
 }
