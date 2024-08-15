@@ -1,12 +1,35 @@
+body, header {
+    margin: 0;
+    padding: 0;
+}
 header{
-    background-color: bisque;
+    background: linear-gradient(
+            45deg,
+            #999 5%,
+            #fff 10%,
+            #ccc 30%,
+            #ddd 50%,
+            #ccc 70%,
+            #fff 80%,
+            #999 95%
+    );
+    padding: 10px 10px;
+    margin: 0;
+
 }
 body{
-    background-color: rgb(83, 24, 24);
+    background-color: rgb(174, 167, 167);
 }
-h1{
-    color: #c4cacf;
+#about{
+color: rgba(51, 50, 49, 0.63);}
+
+img {
+    float: left;
+    margin-right: 20px;
 }
-#lorem{
-    align-content: center;
+#title{
+font-size: 25px
+}
+#text{
+    color: #2d3030;
 }
