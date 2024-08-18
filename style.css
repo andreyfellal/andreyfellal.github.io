@@ -21,7 +21,7 @@ header{
 
 }
 body{
-    background-color: rgb(174, 167, 167);
+    background-color: rgb(227, 230, 230);
 }
 .main-wrapper {
     display: flex;
@@ -46,15 +46,10 @@ font-size: 25px
     color: #2d3030;
 }
 .gallery-container {
-    text-align: center; /* Center all the inline-block gallery items */
+    text-align: center;
+
 
 }
 .gallery {
     display: inline-block;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid;
-    margin: 1px;
-    text-align: center;
-    vertical-align: top;
 }
