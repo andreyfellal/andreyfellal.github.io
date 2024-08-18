@@ -3,6 +3,8 @@ body, header {
     padding: 0;
 }
 header{
+    text-align: center;
+
     background: linear-gradient(
             45deg,
             #999 5%,
@@ -14,12 +16,21 @@ header{
             #999 95%
     );
     padding: 10px 10px;
-    margin: 0;
+    margin: 0
+
 
 }
 body{
     background-color: rgb(174, 167, 167);
 }
+.main-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
 #about{
 color: rgba(51, 50, 49, 0.63);}
 
@@ -27,9 +38,23 @@ img {
     float: left;
     margin-right: 20px;
 }
+
 #title{
 font-size: 25px
 }
 #text{
     color: #2d3030;
+}
+.gallery-container {
+    text-align: center; /* Center all the inline-block gallery items */
+
+}
+.gallery {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    margin: 1px;
+    text-align: center;
+    vertical-align: top;
 }
