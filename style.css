@@ -44,6 +44,8 @@ a.btnop:hover {
 .content{
     font-size: 18px;
     color: #3e1d0d;
+    font-family: Arial;
+
 
 }
 .contactinfo{
@@ -52,6 +54,7 @@ a.btnop:hover {
     margin-left: 200px;
     margin-right: 200px;
     font-size: 18px;
+    font-family: Arial;
 
 
 }
@@ -61,6 +64,8 @@ a.btnop:hover {
     margin-left: 200px;
     margin-right: 200px;
     font-size: 18px;
+    font-family: Arial;
+
 }
 .main-wrapper {
     display: flex;
