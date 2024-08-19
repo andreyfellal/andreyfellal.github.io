@@ -38,6 +38,9 @@ a.btnop {
 
 
 }
+a.btnop:hover {
+    color: #fff;
+}
 .contactinfo{
     display: flex;
     justify-content: center;
