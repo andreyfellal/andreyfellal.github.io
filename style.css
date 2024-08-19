@@ -42,7 +42,6 @@ a.btnop:hover {
     color: #fff;
 }
 .content{
-    font-family: "Comic Sans MS";
     font-size: 18px;
     color: #3e1d0d;
 
@@ -53,7 +52,6 @@ a.btnop:hover {
     margin-left: 200px;
     margin-right: 200px;
     font-size: 18px;
-    font-family: "Comic Sans MS";
 
 
 }
@@ -63,7 +61,6 @@ a.btnop:hover {
     margin-left: 200px;
     margin-right: 200px;
     font-size: 18px;
-    font-family: "Comic Sans MS";
 }
 .main-wrapper {
     display: flex;
