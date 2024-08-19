@@ -41,6 +41,12 @@ a.btnop {
 a.btnop:hover {
     color: #fff;
 }
+.content{
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    color: #3e1d0d;
+
+}
 .contactinfo{
     display: flex;
     justify-content: center;
